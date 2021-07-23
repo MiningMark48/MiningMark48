@@ -9,3 +9,4 @@
 - 📫 How to reach me: MiningMark48#0001 or [Tidal Wave](https://discord.gg/SMCEXw5) on [Discord](https://discord.com).
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=miningmark48&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MiningMark48&theme=dark)](https://git.io/streak-stats)
